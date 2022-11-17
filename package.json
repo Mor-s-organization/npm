@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "accepts": "^1.3.8",
+    "loadsh": "3.10.1",
+    "socket-io": "^1.0.0"
+  }
+}
